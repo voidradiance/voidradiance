@@ -25,16 +25,13 @@
 </div>
 
 
+
 <!--Intro start-->
-- 🔭 I’m currently working on **.NET, C#, Transact-SQL, Rest-API, SSMS**
+Passionate to learn about Fullstack Development especially using .NET Framework, since I have developed a website for development and production system. 
+I am familiar using C# Languange, currenly using Swagger as Rest API, Entity Framework Core as ORM, and Microsoft SQL Server as database.
+I am able to work in teams or by myself and trying to learn a new thing for future work.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in programming. So,I'm learning **.NET**
-
-- 💬 Ask me about **.NET, C#, SQL**
-
-- 📫 Feel free to reach me out **agung.setiawan2214@gmail.com**
+📫 Feel free to reach me out **agung.setiawan2214@gmail.com**
 <!--Intro end-->
 
 
@@ -81,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,visualstudio,gitlab,git,github,bootstrap,css,html,js,jquery,mysql,docker,postman,vscode&perline=15" />
   </a>
 </p>
 
@@ -100,9 +97,7 @@
 <a href="https://twitter.com/vrdnce" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/vrdnce" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
 </p>
-
 
 <!--profile visit count-->
 <div align="center">
@@ -113,5 +108,3 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
