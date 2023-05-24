@@ -78,7 +78,7 @@ I am able to work in teams or by myself and trying to learn a new thing for futu
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,visualstudio,gitlab,git,github,bootstrap,css,html,js,jquery,mysql,docker,postman,vscode&perline=15" />
+    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,visualstudio,gitlab,git,github,bootstrap,css,html,js,jquery,mysql,docker,postman,vscode&perline=16" />
   </a>
 </p>
 
